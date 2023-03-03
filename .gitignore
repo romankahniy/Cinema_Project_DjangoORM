@@ -1,0 +1,4 @@
+# created by virtualenv automatically
+venv
+.idea
+app_configure/settings.py
